@@ -1,0 +1,23 @@
+export const nameBand = 'JAMIROQUAI';
+export let nameSongs = [
+	"VIRTUAL INSANITY", /*1*/
+	"COSMIC GIRL", /*2*/
+	"DEEPER UNDERGROUND", /*3*/
+	"CANNED HEAT", /*4*/
+	"SPACE COWBOY", /*5*/
+	"LITTLE L", /*6*/
+	"ALRIGHT", /*7*/
+	"LOVE FOOLOSOPHY", /*8*/
+	"WHEN YOU GONNA LEARN", /*9*/
+	"TOO YOUNG TO DIE", /*10*/
+	"RUNAWAY", /*11*/
+	"SEVEN DAYS IN SUNNY JUNE", /*12*/
+	"YOU GIVE ME SOMETHING", /*13*/
+	"KING FOR A DAY", /*14*/
+	"CLOUD 9", /*15*/
+	"TRAVELLING WITHOUT MOVING", /*16*/
+	"VITAMIN", /*17*/
+	"HIGH TIMES", /*18*/
+	"EMERGENCY ON PLANET EARTH", /*19*/
+	"EVERYDAY", /*20*/
+]
